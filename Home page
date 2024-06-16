@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html></html>
+
+<head>
+
+
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="Srilanka Homenew css.css">
+    <link href='https://fonts.googleapis.com/css?family=Josefin Sans' rel='stylesheet'>
+    <title>Sri-Lanka</title>
+    </head>
+<body>
+
+
+
+    <div class="container">
+
+        <video autoplay loop muted plays-inline class="background clip">
+            <source src="Sri Lanka - Heart of the Indian Ocean(2).mp4" type="video/mp4">
+        </video>
+
+    
+        <div class="navbar-top">
+            <a href="Srilanka Home page new.html">Home  ></a>
+            
+        
+        <div class="phone-number">+94-70-333-3400</div>
+            
+        </div>
+
+
+        <nav>
+            <div class="logo">Sri Lanka</div>
+            <ul>
+                <li><a href="C:\Users\Methika\Desktop\OneDrive - City of Bristol College\Website\Linked website (Sri lanka)\About.html">About</a></li>
+                <li><a href="https://www.saltinourhair.com/sri-lanka/">Blog</a></li>
+                <li><a href="contact us.html">Feedback</a></li>
+                <li><a href="contact us.html">News</a></li>
+                <div class="dropdown">
+                    <li><a href="dropbtn">☰ Menu</a></li>
+                    <div class="dropdown-content">
+                        <a href="Indigenous Features.html"> Indigenous Features</a>
+                        <a href="Cultural Festival(1).html"> Cultural Festival </a>
+                        <a href="Foods.html"> Foods</a>
+                        <a href="Tourist visit place.html"> Tourists Visits Places</a>
+                        <a href="UNESCO Page.html"> UNESCO World Heritage Sites of Sri-Lanka</a>
+                        <a href="#"> Traditional Dancing</a>
+                        <a href="#"> Traditional Music</a>
+
+                      </div>
+                </div>
+            </ul>  
+        </nav>
+        
+
+        <div class="content">
+            <h1>Explore More</h1>
+            <a href="#">Start Learing</a>
+        </div>
+    </div>
+</body>
+</html>
